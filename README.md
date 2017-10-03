@@ -1,2 +1,2 @@
-# dataSci-repo
+# datasciencecoursera
 This is a repo
